@@ -23,7 +23,13 @@ li a:hover:not(.active) {
     background-color: #ddd;
 }
 
-li a.active {
+li .active {
     color: white;
     background-color: gray;
+}
+div {
+    text-align: center;
+}
+h1 { 
+	 margin-top: 47px; 
 }
